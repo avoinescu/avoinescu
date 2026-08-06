@@ -148,7 +148,7 @@ My monitoring and detection pipeline includes:
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=avoinescu&show_icons=true&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api?username=avoinescu&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 
